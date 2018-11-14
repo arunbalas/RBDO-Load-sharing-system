@@ -1,3 +1,3 @@
 # RBDO-load-sharing-system
-This is code for RBDO Load sharing system using SSI Markov models
+This repository consists of code for RBDO Load sharing system using SSI Markov models (shown in figure below). The complete description of the methodology and the link to the paper (in progress) will be updated soon!! 
 ![RBDO system](https://github.com/arunbalas/RBDO-load-sharing-system/blob/master/identical%20sys.png)
